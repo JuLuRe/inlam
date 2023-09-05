@@ -1,0 +1,26 @@
+Vad jag förväntar mig av kursen:
+
+Jag förväntar mig att vi ska kunna bygga en bra grund,
+både för att lära oss python samt hur vi ska tänka när
+vi utväcklar med hjälp av det.
+
+samt så förväntar jag mig att vi ska gå igenom hur man 
+samarbetar i ett kodnings projekt.
+
+Mina tidigare erfarhenheter:
+
+jag har läst systemutväckling i gymnasiet, där så läste
+vi HTML, CSS, javascript och C#. Men det var ganska länge
+sedan så jag har hunnit glömma det mesta tyvärr 
+då jag inte jobbat eller pluggat det på några år nu.
+
+jag är relativt datorvan och gillar teknik, har tex.
+byggt min egen stationära dator som jag använder mig av
+hemma. 
+
+Jag anser att jag går in i denna kurs som en relativt 
+nybörjare då jag ska försöka lära mig ett nytt språk 
+samt inte kodat på ett tag, och jag ser fram emot vad
+den har att erbjuda.
+
+- J.LR
